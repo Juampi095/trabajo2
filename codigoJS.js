@@ -8,7 +8,7 @@ saludar();
 // //Marca de Autos
 
 
-function marcaDeAutos() {
+function marcaDeAuto() {
 
     let marcaAutos = prompt("Ingresa la marca y te diremos el precio y la disponibilidad");
     switch (marcaAutos) {
@@ -36,7 +36,7 @@ function marcaDeAutos() {
             break;
     }
 }
-marcaDeAutos();
+marcaDeAuto();
 
 
 
